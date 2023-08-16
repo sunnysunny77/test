@@ -9,11 +9,13 @@ Run the DLL.sql sql in mysql to create the database,
 Enter PDO settings in api.php, then navagite to the file to populate the database.
 <br>
 <br>
+<pre>
 //PDO settings
 $host = "localhost";
 $dbname = "testProject";
 $user = "root";
 $pass = "root"
+</pre>
 <br>
 <br>
 Run Composer install in testProject root.
